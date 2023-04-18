@@ -1,10 +1,10 @@
 
 # :cowboy_hat_face:Desafio Theme Switcher
 
-Rocketseat's proposed mid-level challenge
+Este projeto foi desenvolvido como parte do desafio proposto pela Rocketseat. Trata-se de um switcher de temas com suporte a light e dark mode.
 
 
-## 👨‍💻Autor
+## 📝 Autor
 
 - [@devgustavor](https://github.com/devGustavoR)
 
@@ -14,23 +14,19 @@ Rocketseat's proposed mid-level challenge
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 
-## For local run
+## 🚀 Executando localmente
 
-Clone the project
-
-```bash
-  git clone https://link-para-o-projeto
-```
-
-Entre no diretório do projeto
+Para executar o projeto localmente, siga as etapas abaixo:
 
 ```bash
-  cd my-project
-```
+# Clone o repositório para a sua máquina:
+git clone https://link-para-o-projeto
 
-Inicie o programa
+# Acesse o diretório do projeto:
+cd my-project
 
-```bash
-  my-project.html
 ```
+Para iniciá-lo, abra o arquivo index.html em seu navegador de preferência.
+
+
 
